@@ -1,0 +1,60 @@
+body{
+	text-align: center;
+}
+header{
+	height: 10%;
+}
+footer{
+	clear: both;
+	background: aqua;
+
+}
+
+footer span, footer strong{
+	color: #FFFFFF;
+}
+
+.loginSection{
+	width: 50%;
+	margin: 5% 25% 5% 25%;
+}
+
+#loginForm{
+	width: 80%;
+	margin: 5% 10% 5% 10%;		
+}
+
+.main{
+	width: 60%;
+	margin: 5% 20% 5% 20%;
+}
+
+.ingreso{
+	width: 100%;
+	text-align: left;
+
+}
+
+.imagen{
+	width: 12%;
+	height: 12%;
+	text-align: center;
+}
+
+.imagenMostrar{
+	width: 30%;
+	height: 30%;
+	text-align: center;
+}
+
+.navbar-header .imagen{
+	width: 55%;
+	height: 50%;
+	margin: 0% 0% 0% 0%;
+}
+
+.glyphicon-chevron-left, .glyphicon-chevron-right{
+
+	color : black;
+
+}
